@@ -1,3 +1,6 @@
+21f80a7 Complete the Task 2.1
+2351b30 Complete the Task 2.1 1-4
+370030d Complete Task 1.2
 964a0be Complete Task 1.1
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
